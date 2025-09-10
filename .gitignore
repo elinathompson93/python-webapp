@@ -1,7 +1,7 @@
 .idea/
 venv
 __pycache__
-scan.bat
+sonar-scan.bat
 .venv
 .scannerwork
 coverage.xml
